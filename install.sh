@@ -43,7 +43,7 @@ echo 'Redicting to zip.py wait 10 second...'
 cd zip-cracker
 chmod 777 zip.py
 cp -f zip.py /sdcard/
-cp -f password lst /sdcard/
+cp -f password.lst /sdcard/
 chmod 777 zip.py
 cd /sdcard && python2 zip.py
 exit
