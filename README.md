@@ -1,2 +1,3 @@
 # zip-cracker
-Crack zip file
+Sudo apt install python2
+Bash install.sh
