@@ -1,6 +1,6 @@
 # zip-cracker
 Sudo apt install python2
 | 
-Bash install.sh
+bash setup.sh
 
 - [x] Beta Versions 
