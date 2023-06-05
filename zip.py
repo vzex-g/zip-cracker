@@ -16,5 +16,5 @@ for password in passfile.readlines():
         time.sleep(500)
         sys.exit()
     except Exception, e:
-        time.sleep(1)
+
         print (" [!] Searching > " + password +'')
