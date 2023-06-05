@@ -43,7 +43,6 @@ echo 'Redicting to zip.py wait 10 second...'
 sleep 1
 echo "Moving out some files..."
 cp -f zip.py /sdcard/
-cp -f rockyou.txt /sdcard/
 cd /sdcard/
 chmod 777 zip.py
 cd ~/
