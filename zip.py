@@ -2,6 +2,7 @@
 import zipfile
 import time
 import sys
+import os
 
 print ("Made by HenzX | Sunshine")
 zip = raw_input("Zip Name : ")
@@ -16,5 +17,9 @@ for password in passfile.readlines():
         time.sleep(500)
         sys.exit()
     except Exception, e:
-
+        loop="""
+        CRACKING PASSWORD... [ BY SUNSHINE, HENZX ]
+        """
+        print(loop)
+        os.system('clear')
         print (" [!] Searching > " + password +'')
