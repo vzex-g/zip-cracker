@@ -1,9 +1,9 @@
 # zip-cracker
-Sudo apt install python2
+apt install python2
 | 
 bash setup.sh
 
-- [x] Beta Versions 
+- [x] Version 1.2BEPh3
 
 |
 Read this!!!!
