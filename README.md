@@ -11,7 +11,7 @@ Read this!!!!
 
 - [x] https://www.mediafire.com/file/uiym6cji8n5g0o8/rockyou.txt/file
 |
-- Remember, zip.py can only read in only 1 place, like example, you are in android phone the the directory is /sdcard/Downloads, that mean the program can only read the zip file at the /storage/emulated/0/Downloads.
+- Remember, zip.py can only read in only 1 place, like example, you are in android phone and the directory is /sdcard/Downloads, that mean the program can only read the zip file at the /storage/emulated/0/Downloads.
 
 # Information:
 - Made by Sunshine, HenzX
